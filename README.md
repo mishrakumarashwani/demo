@@ -1,4 +1,4 @@
 # demo
 This is my Git Repository.
 <br>
-Author - 
+Author - Name of the author
